@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bin Zhao / Personal Website"
+title                    : "binzhao.github.io"
 title_separator          : "-"
 name                     : &name "Bin Zhao"
-description              : &description "personal description"
+description              : &description "Ph.D. Candidate, Cornell University Department of Economics"
 url                      : https://binzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/binzhao.github.io"
@@ -80,14 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bin"
+  name             : "Bin Zhao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Candidate, Cornell University Department of Economics"
+  location         : "Ithaca, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "bz279@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +94,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -310,4 +304,3 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
