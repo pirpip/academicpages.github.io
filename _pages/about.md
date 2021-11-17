@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Economics Department at Cornell University. 
+Hello! I am a PhD candidate in the Economics Department at Cornell University. 
 
 My areas of research are Firm Dynamics, Trade, knowledge diffusion and Innovations. 
 
