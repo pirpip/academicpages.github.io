@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "binzhao.github.io"
 title_separator          : "-"
 name                     : &name "Bin Zhao"
-description              : &description "PhD Candidate, Cornell University Department of Economics"
+description              : &description "PhD Candidate, Cornell University, Department of Economics"
 url                      : https://pirpip.github.io/binzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pirpip/binzhao.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate, Cornell University Department of Economics"
   location         : "Ithaca, NY"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=dMg236sAAAAJ"
+  googlescholar    : 
   email            : "bz279@cornell.edu"
   uri              :
   bitbucket        :
