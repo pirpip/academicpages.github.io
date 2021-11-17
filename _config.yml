@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "malin-hu.github.io"
+title                    : "binzhao.github.io/"
 title_separator          : "-"
-name                     : &name "Malin Hu"
-description              : &description "Assistant Professor, Vanderbilt University Department of Economics"
-url                      : https://malin-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bin Zhao"
+description              : &description "PhD Candidate, Cornell University Department of Economics"
+url                      : https://binzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "malin-hu/malin-hu.github.io"
+repository               : "pirpip/binzhao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Malin Hu"
+  name             : "Bin Zhao"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Vanderbilt University Department of Economics"
-  location         : "Nashville, TN"
+  bio              : "PhD Candidate, Cornell University Department of Economics"
+  location         : "Ithaca, NY"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=dMg236sAAAAJ"
-  email            : "malin.hu@vanderbilt.edu"
+  googlescholar    : 
+  email            : "bz279@cornell.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "malinian"
+  twitter          :
   vine             :
   weibo            :
   xing             :
