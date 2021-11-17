@@ -11,9 +11,9 @@ title                    : "binzhao.github.io/"
 title_separator          : "-"
 name                     : &name "Bin Zhao"
 description              : &description "PhD Candidate, Cornell University Department of Economics"
-url                      : https://pirpip.github.io/binzhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pirpip.github.io/binzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pirpip/binzhao.github.io"
+repository               : "malin-hu/malin-hu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
