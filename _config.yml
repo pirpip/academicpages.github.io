@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "binzhao.github.io"
+title                    : "malin-hu.github.io"
 title_separator          : "-"
-name                     : &name "Bin Zhao"
-description              : &description "Ph.D. Candidate, Cornell University Department of Economics"
-url                      : https://binzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Malin Hu"
+description              : &description "Assistant Professor, Vanderbilt University Department of Economics"
+url                      : https://malin-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/binzhao.github.io"
+repository               : "malin-hu/malin-hu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,18 +75,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-128055856-1"
 
 
 # Site Author
 author:
-  name             : "Bin Zhao"
+  name             : "Malin Hu"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, Cornell University Department of Economics"
-  location         : "Ithaca, NY"
+  bio              : "Assistant Professor, Vanderbilt University Department of Economics"
+  location         : "Nashville, TN"
   employer         :
-  email            : "bz279@cornell.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=dMg236sAAAAJ"
+  email            : "malin.hu@vanderbilt.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,16 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
+  orcid            :
   pinterest        :
   soundcloud       :
+  stackoverflow    :
   steam            :
   tumblr           :
+  twitter          : "malinian"
   vine             :
   weibo            :
   xing             :
@@ -123,23 +126,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -253,7 +255,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -303,6 +305,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-theme: jekyll-theme-minimal
