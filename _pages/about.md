@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page !
+I am a PhD candidate in the Economics Department at Cornell University. 
 
-I am a PhD candidate in the Economics Department at Cornell University. My areas of research are Firm Dynamics, Trade, knowledge diffusion and Innovations. 
+My areas of research are Firm Dynamics, Trade, knowledge diffusion and Innovations. 
 
-My current works focus on interactions among firm-to-firm trade, exclusive contracts and productivity (technology) diffusions.  I also work on understanding the productivity diffusion channel through trade-policy induced agglomeration.
+My current works focus on interactions among firm-to-firm trade, exclusive contracts and productivity (technology) diffusions.  
  
 I am on the job market during the 2021-2022 cycle. 
 
