@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "binzhao.github.io/"
+title                    : "malin-hu.github.io"
 title_separator          : "-"
-name                     : &name "Bin Zhao"
-description              : &description "PhD Candidate, Cornell University Department of Economics"
-url                      : https://pirpip.github.io/binzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Malin Hu"
+description              : &description "Assistant Professor, Vanderbilt University Department of Economics"
+url                      : https://malin-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "malin-hu/malin-hu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bin Zhao"
+  name             : "Malin Hu"
   avatar           : "profile.png"
-  bio              : "PhD Candidate, Cornell University Department of Economics"
-  location         : "Ithaca, NY"
+  bio              : "Assistant Professor, Vanderbilt University Department of Economics"
+  location         : "Nashville, TN"
   employer         :
-  googlescholar    : 
-  email            : "bz279@cornell.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=dMg236sAAAAJ"
+  email            : "malin.hu@vanderbilt.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "malinian"
   vine             :
   weibo            :
   xing             :
